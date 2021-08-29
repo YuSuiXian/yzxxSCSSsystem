@@ -56,7 +56,7 @@
   padding: 5px 5px
 </style>
 
-<script lang="ts">
+<!--<script lang="ts">
 import { Todo, Meta } from 'components/models';
 import ExampleComponent from 'components/CompositionComponent.vue';
 import { defineComponent, ref } from '@vue/composition-api';
@@ -94,7 +94,7 @@ export default defineComponent({
     return { todos, meta };
   }
 });
-</script>
+</script>-->
 
 <script>
 export default {
